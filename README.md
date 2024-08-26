@@ -1,4 +1,4 @@
- &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; <image src="ZJF5.gif">
+<center> <image src="ZJF5.gif"> </center> 
 
 
 MCA 2 Semester Lab Programs
