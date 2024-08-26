@@ -3,7 +3,7 @@
   </image>
 </p>
 
-<p align="center" >
+<p align="center" style="font-size:30px">
 MCA 2 Semester Lab Programs
 </p>
 
